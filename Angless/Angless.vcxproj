@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Angless.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="definitions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Angless.h" />
